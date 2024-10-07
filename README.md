@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 });
 ```
+
+## Running this project
+
+- Locally: `bun run dev`
